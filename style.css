@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Bubbler+One&display=swap');
+body{
+    background-color: gold;
+    text-align: center;
+    font-family: 'Bubbler One', sans-serif;
+}
+
+h1{
+    color:darkviolet;
+}
+h2{
+    color:#008744;
+}
+
+.My Image{
+width: 300px;
+height: 350px;
+}
+
+p{
+    font-size: 25px;
+}
+
+.hobby{
+    width: 350px;
+    height: 300px;
+}
